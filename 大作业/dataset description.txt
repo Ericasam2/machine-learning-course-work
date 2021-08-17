@@ -1,0 +1,15 @@
+reviews_Digital_Music_5.json.gz为数据集文件
+reviews_Digita_Music
+该数据集为亚马逊电商平台的数据集
+收集了用户对于音乐产品的购买情况、打分和评价
+reviewerID：用户的id
+asin：商品id
+reviewName：用户的昵称
+helpful：评论的有效性
+reviewText：评论的文本内容
+overall：用户对商品的评分
+summary：对评论的总结
+unixReviewTime：发送评论的时间（unix）
+reviewTime：发送评论的时间（raw）
+
+数据集地址：http://jmcauley. cusd.edu/data/amazon/
